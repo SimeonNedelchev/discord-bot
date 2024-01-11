@@ -128,5 +128,4 @@ dist
 
 # Config
 config/*
-
 package-lock.json
